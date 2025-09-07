@@ -1,2 +1,2 @@
-# coral-protocol-video-notes
+# Video notes
 Описание, разборы видео
